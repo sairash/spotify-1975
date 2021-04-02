@@ -51,7 +51,7 @@ col = '150' #width
 lines = '41' #height
 
 #logo
-geet_logo_txt = open('geet.txt','r') #read file
+geet_logo_txt = open('logo.txt','r') #read file
 geet_logo_split = geet_logo_txt.read().split('\n') #change to array
 geet_logo_txt.close() #close file
 
