@@ -11,4 +11,5 @@ py main.py
 # Screenshots
 Welcome page
 <img src="screen_shots/welcome_page.PNG"><br/>
+Audio Player
 <img src="screen_shots/audio_player.PNG"><br/>
