@@ -1,2 +1,2 @@
-![spotify-1975](https://img.shields.io/github/license/sairash/spotify-1975)<br/>
-![spotify-1975](screen_shots/local_file_courier_py/logo.png)
+![Patra](https://img.shields.io/github/license/sairash/Patra)<br/>
+<img src="screen_shots/logo.PNG"><br/>
