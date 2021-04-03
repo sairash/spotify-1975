@@ -3,7 +3,7 @@
 # Spotify-1975
 A cli enforced with interactable ui audio player
 
-#run program
+# run program
 How to run program.
 ```
 py main.py
